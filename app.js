@@ -1,4 +1,4 @@
-angular.module('blog', ['ui.bootstrap','ui.router','ngAnimate']);
+angular.module('blog', ['ui.bootstrap', 'ui.router', 'ngAnimate', 'static']);
 
 angular.module('blog').config(function($stateProvider, $urlRouterProvider) {
 
